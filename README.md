@@ -1,5 +1,6 @@
 # laravel-bank-transaction-app
 Энгийн гүйлгээний дансны мэдээлэл хадгалж гүйлгээ хийдэг laravel php framework ашигласан веб хуудас
+
 important codes are 
 - resourse/view files in folder
 - /routes/web.php
